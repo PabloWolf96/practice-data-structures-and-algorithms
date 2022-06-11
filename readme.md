@@ -1,1 +1,1 @@
-practing data structures and algorithms
+practing data structures and algorithms in javascript and python

@@ -1,3 +1,4 @@
+// time O(n) space O(1)
 var productExceptSelf = function (nums) {
   let prefix = 1;
   let postfix = 1;

@@ -1,3 +1,4 @@
+# time O(n) space O(1)
 class Solution:
     def productExceptSelf(self, nums):
         prefix = 1
